@@ -1,0 +1,5 @@
+to ignore a file
+write a file.extension in the .gitignore
+
+to untrack a file
+git rm --cached <filename> eg git rm --cached new.txt
